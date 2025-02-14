@@ -11,7 +11,7 @@
     </div>
     <div class="wp-chatbot-messages">
         <div class="wp-chatbot-message wp-chatbot-bot-message">
-            Hello! I'm your assistant. How can I help you today?
+            Hello
         </div>
     </div>
     <form id="wp-chatbot-form" class="wp-chatbot-input">
